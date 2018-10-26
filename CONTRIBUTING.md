@@ -1,0 +1,1 @@
+Silahkan berkontribusi bersama saya, untuk mengembangkan program ini.
